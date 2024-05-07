@@ -92,7 +92,7 @@ Column Description:
 - Weighted KNN and feature selection techniques are applied to improve model performance.
 - Hyperparameter tuning using k-fold cross-validation helps find the optimal value of k for the KNN classifier.
 
-**Results and Insights:**
+**Results and Insights: kNN classifier for Human Activity Recognition**
 - The baseline KNN model achieves a certain level of accuracy in recognizing human activities.
 - Feature correlation and importance analysis provide insights into the significance of sensor readings for activity recognition.
 - Weighted KNN and feature selection techniques may further enhance model performance by focusing on relevant features.
@@ -119,7 +119,7 @@ Column Description:
 - Weighted KNN and feature selection techniques are applied to improve model performance.
 - Hyperparameter tuning using k-fold cross-validation helps find the optimal value of k for the KNN classifier.
 
-**Results and Insights:**
+**Results and Insights: kNN classifier for Gender Recognition by Voice**
 - Gender Recognition by Voice using K-Nearest Neighbors (kNN)
 - The KNN classifier achieves a certain level of accuracy in predicting gender based on voice features.
 - Feature correlation analysis provides insights into the acoustic properties most correlated with gender.
@@ -128,7 +128,7 @@ Column Description:
 - Selecting top correlated features and tuning hyperparameters can further improve model performance.
 - The optimal value of k is determined using k-fold cross-validation, resulting in improved accuracy.
 
-## Results and Insights
+## Results
 
 - Both scripts provide detailed analyses of the datasets and model performance.
 - Key metrics such as accuracy, precision, recall, and F1-score are reported for model evaluation.
